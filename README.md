@@ -8,7 +8,7 @@ In this project you will build such a pipeline.
 
 ## Project links
 [W&B Project](https://wandb.ai/imanzaf/nyc_airbnb?workspace=user-imanzaf) - link to Weights & Biases Workspace for this project
-[GitHub Project](https://github.com/imanzaf/udacity-ml-pipeline-for-rental-prices) - link to this GitHub repository
+<br/>[GitHub Project](https://github.com/imanzaf/udacity-ml-pipeline-for-rental-prices) - link to this GitHub repository
 
 ## Table of contents
 
